@@ -1,6 +1,6 @@
 # How ransomware operates using C#
 
-The medium article explaining the code: https://medium.com/@etiennedesclaux/how-a-ransomware-works-in-c-ddd0fd23b2c1
+My article explaining the code: https://medium.com/@etiennedesclaux/how-a-ransomware-works-in-c-ddd0fd23b2c1
 
 This ransomware was made for educational purposes. Do not use it in any harmful way.
 
