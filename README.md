@@ -1,4 +1,4 @@
-# How Ransomware Works in C#
+# A Ransomware Simulation in C#
 
 A practical educational example showing how file encryption and decryption logic works in a ransomware-like application using C# and .NET 6 Windows Forms.
 
