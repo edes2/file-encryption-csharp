@@ -8,6 +8,13 @@ A practical educational example showing how file encryption and decryption logic
 
 ---
 
+## 📚 My Article
+
+Full explanation:  
+[How a Ransomware Works in C#](https://medium.com/@etiennedesclaux/how-a-ransomware-works-in-c-ddd0fd23b2c1)
+
+---
+
 ## 🧩 Demonstration
 
 Below is a short demonstration of the encryption process running inside a safe virtual machine:
@@ -83,13 +90,6 @@ The focus is understanding how file encryption and key handling work at a low le
 - Learn proper key management and stream-based encryption.
 - Explore resource embedding and UI feedback loops.
 - Reinforce the ethics of cybersecurity research.
-
----
-
-## 📚 Further Reading
-
-Full explanation:  
-[How a Ransomware Works in C#](https://medium.com/@etiennedesclaux/how-a-ransomware-works-in-c-ddd0fd23b2c1)
 
 ---
 
